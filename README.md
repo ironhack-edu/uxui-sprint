@@ -1,6 +1,6 @@
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# UX/UI Development Bootcamp v3.9
+# UX/UI - Sprint
 
 Ironhack prepares the next generation of digital creators through Intensive courses in Web Development & UX/UI Design.
 
