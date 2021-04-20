@@ -1,0 +1,166 @@
+---
+course:
+  name: UXUI-SPRINT
+  number: MASTER
+  version: 1.0
+  chapter:
+    - name: "Week 1"
+      sequential:
+        - name: "Day 1"
+          vertical:
+            - name: "Welcome"
+              component:
+                - type: html
+                  file: sprint/0-welcome.md
+            - name: "Introduction to Design Thinking and GV Design Sprints"
+              component:
+                - type: html
+                  file: sprint/01-intro-to-design-thinking-and-gv-sprints.md
+            - name: "Blue Bottle Sprint Presentation & Overview"
+              component:
+                - type: html
+                  file: sprint/02-bbsprint-presentation-overview.md
+            - name: "Design Sprint Project Brief: Bloom Box"
+              component:
+                - type: html
+                  file: sprint/03-design-sprint-project-brief.md
+            - name: "[LAB] Exercise - Bloom Box: Setting the Stage and Make a Map"
+              component:
+                - type: html
+                  file: sprint/04-bloom-box-make-map.md
+            - name: "Interpreting Data and How Might We Statements"
+              component:
+                - type: html
+                  file: sprint/05-hmw-statements.md
+            - name: "[LAB] Exercise - Bloom Box: HMW's (How Might We)"
+              component:
+                - type: html
+                  file: sprint/06-bloom-box-hmw.md
+
+        - name: "Day 2"
+          vertical:
+            - name: "[LAB] Exercise - Bloom Box: Interviews and Observations"
+              component:
+                - type: html
+                  file: sprint/07-bloom-box-interviews-observations.md
+            - name: "[CASE_STUDY] Case Study - Blue Bottle: Remix and Improve"
+              component:
+                - type: html
+                  file: sprint/08-blue-bottle-remix-improve.md
+            - name: "Lightning Demos"
+              component:
+                - type: html
+                  file: sprint/09-lightning-demos.md
+            - name: "[LAB] Exercise - Bloom Box: Lightning Demos"
+              component:
+                - type: html
+                  file: sprint/10-bloom-box-lightning-demos.md
+            - name: "Sketching: The Four Steps"
+              component:
+                - type: html
+                  file: sprint/11-sketching-four-steps.md
+            - name: "[LAB] Exercise - Bloom Box: Divide or Swarm + Notes/Ideas"
+              component:
+                - type: html
+                  file: sprint/12-bloom-box-divide-swarm.md
+            - name: "[LAB] Exercise - Bloom Box: Crazy 8s"
+              component:
+                - type: html
+                  file: sprint/13-bloom-box-crazy-8s.md
+
+        - name: "Day 3"
+          vertical:
+            - name: "[LAB] Exercise - Bloom Box: Sketch!"
+              component:
+                - type: html
+                  file: sprint/14-exercise-bloom-box-sketch.md
+            - name: "[CASE_STUDY] Case Study - Blue Bottle: Decide and Storyboard"
+              component:
+                - type: html
+                  file: sprint/15-blue-bottle-decide-storyboard.md
+            - name: "Deciding"
+              component:
+                - type: html
+                  file: sprint/16-deciding.md
+            - name: "[LAB] Exercise - Bloom Box: Art Museum & Heat Map"
+              component:
+                - type: html
+                  file: sprint/17-bloom-box-art-museum.md
+            - name: "[LAB] Exercise - Bloom Box: Speed Critique, Straw poll, & Supervote"
+              component:
+                - type: html
+                  file: sprint/18-bloom-box-speed-critique-straw-poll-supervote.md
+            - name: "Making Storyboards"
+              component:
+                - type: html
+                  file: sprint/19-making-storyboards.md
+            - name: "[LAB] Exercise - Bloom Box: Grid & Storyboard"
+              component:
+                - type: html
+                  file: sprint/20-bloom-box-grid-storyboard.md
+
+        - name: "Day 4"
+          vertical:
+            - name: "[CASE_STUDY] Case Study - Blue Bottle: Prototyping"
+              component:
+                - type: html
+                  file: sprint/21-blue-bottle-prototyping.md
+            - name: "How to Fake It: The Prototype Mentality"
+              component:
+                - type: html
+                  file: sprint/22-prototype-mentality.md
+            - name: "How to Prototype"
+              component:
+                - type: html
+                  file: sprint/23-how-to-prototype.md
+            - name: "[LAB] Exercise - Bloom Box: Divide and Conquer"
+              component:
+                - type: html
+                  file: sprint/24-bloom-box-divide-conquer.md
+            - name: "[LAB] Exercise - Bloom Box: Prototyping"
+              component:
+                - type: html
+                  file: sprint/25-bloom-box-prototyping.md
+            - name: "[LAB] Exercise - Bloom Box: Stitch it together + Testing Guides"
+              component:
+                - type: html
+                  file: sprint/26-bloom-box-stitch-testing-guides.md
+            - name: "[LAB] Exercise - Bloom Box: Trial Run and Finalizing the Prototype"
+              component:
+                - type: html
+                  file: sprint/27-bloom-box-trial-run.md
+
+        - name: "Day 5"
+          vertical:
+            - name: "Blue Bottle: Testing, Interviews, and Learning"
+              component:
+                - type: html
+                  file: sprint/28-blue-bottle-testing-interviews-learning.md
+            - name: '"Small Data" and How to User Test"'
+              component:
+                - type: html
+                  file: sprint/29-small-data.md
+            - name: "[LAB] Exercise - Bloom Box: Setting the Environment"
+              component:
+                - type: html
+                  file: sprint/30-bloom-box-setting-environment.md
+            - name: "[LAB] Exercise - Bloom Box: Interviews and Observations"
+              component:
+                - type: html
+                  file: sprint/31-bloom-box-interviews-observations.md
+            - name: "Learning Together"
+              component:
+                - type: html
+                  file: sprint/32-learning-together.md
+            - name: "[LAB] Exercise - Bloom Box: Gather Feedback and Look for Patterns"
+              component:
+                - type: html
+                  file: sprint/33-bloom-box-gather-feedback-patterns.md
+            - name: "[LAB] Exercise - Bloom Box: Wrap Up Conclusions"
+              component:
+                - type: html
+                  file: sprint/34-bloom-box-wrap-conclusions.md
+            - name: "Bloom Box: Sprint presentations"
+              component:
+                - type: html
+                  file: sprint/35-presentations.md

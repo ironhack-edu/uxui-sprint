@@ -1,0 +1,32 @@
+{
+  "name": "UXUI",
+  "version": "3.8.0",
+  "description": "UX/UI Bootcamp Materials",
+  "main": "index.js",
+  "repository": "git@github.com:ironhack/uxui.git",
+  "author": "Fer Martin <fer@ironhack.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node index.js  --inspect",
+    "import-materials": "node script-utils/import",
+    "import-materials:production": "NODE_ENV=production node script-utils/import"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "bluebird": "^3.5.1",
+    "dotenv": "^6.0.0",
+    "httpcheck": "^0.3.0",
+    "md5-file": "^3.2.3",
+    "mongoose": "^4.13.7",
+    "pg": "^7.4.3",
+    "sequelize": "^4.38.0",
+    "shortid": "^2.2.8"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-syntax-async-functions": "^6.13.0",
+    "babel-plugin-transform-regenerator": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
